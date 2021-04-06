@@ -1,0 +1,34 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+
+
+body
+{
+    font-family: tahoma;
+}
+
+.hero
+{
+    position: absolute;
+    width: 114%px;
+    top: 50%;
+    left: 40%;
+    transform: translate(-50%,-50%)
+    
+}
+
+header
+{
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(backg.jpeg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+h1{
+    color: azure;
+}
